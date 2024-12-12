@@ -1,0 +1,84 @@
+E:\Visual Studio Projects\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.deps.json
+E:\Visual Studio Projects\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.dll
+E:\Visual Studio Projects\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.pdb
+E:\Visual Studio Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfo.cs
+E:\Visual Studio Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.dll
+E:\Visual Studio Projects\Bulky\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
+E:\Visual Studio Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
+E:\Visual Studio Projects\Bulky\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
+E:\Visual Studio Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.AssemblyReference.cache
+F:\Mustafa\Courses\.Net Core\MVC\Project\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.deps.json
+F:\Mustafa\Courses\.Net Core\MVC\Project\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.dll
+F:\Mustafa\Courses\.Net Core\MVC\Project\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.pdb
+F:\Mustafa\Courses\.Net Core\MVC\Project\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.AssemblyReference.cache
+F:\Mustafa\Courses\.Net Core\MVC\Project\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mustafa\Courses\.Net Core\MVC\Project\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfoInputs.cache
+F:\Mustafa\Courses\.Net Core\MVC\Project\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfo.cs
+F:\Mustafa\Courses\.Net Core\MVC\Project\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.CoreCompileInputs.cache
+F:\Mustafa\Courses\.Net Core\MVC\Project\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.dll
+F:\Mustafa\Courses\.Net Core\MVC\Project\Bulky\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
+F:\Mustafa\Courses\.Net Core\MVC\Project\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
+F:\Mustafa\Courses\.Net Core\MVC\Project\Bulky\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
+C:\Users\Mohamed Saad\OneDrive\Desktop\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.deps.json
+C:\Users\Mohamed Saad\OneDrive\Desktop\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.dll
+C:\Users\Mohamed Saad\OneDrive\Desktop\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.pdb
+C:\Users\Mohamed Saad\OneDrive\Desktop\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.AssemblyReference.cache
+C:\Users\Mohamed Saad\OneDrive\Desktop\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Saad\OneDrive\Desktop\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfoInputs.cache
+C:\Users\Mohamed Saad\OneDrive\Desktop\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfo.cs
+C:\Users\Mohamed Saad\OneDrive\Desktop\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Saad\OneDrive\Desktop\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.dll
+C:\Users\Mohamed Saad\OneDrive\Desktop\Bulky\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
+C:\Users\Mohamed Saad\OneDrive\Desktop\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
+C:\Users\Mohamed Saad\OneDrive\Desktop\Bulky\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
+F:\Mustafa\Courses\.Net Core\MVC\Projects\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.deps.json
+F:\Mustafa\Courses\.Net Core\MVC\Projects\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.dll
+F:\Mustafa\Courses\.Net Core\MVC\Projects\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.pdb
+F:\Mustafa\Courses\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.AssemblyReference.cache
+F:\Mustafa\Courses\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mustafa\Courses\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfoInputs.cache
+F:\Mustafa\Courses\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfo.cs
+F:\Mustafa\Courses\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.CoreCompileInputs.cache
+F:\Mustafa\Courses\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.dll
+F:\Mustafa\Courses\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
+F:\Mustafa\Courses\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
+F:\Mustafa\Courses\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
+F:\Mustafa\Courses\Back_End\.Net Core\MVC\Projects\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.deps.json
+F:\Mustafa\Courses\Back_End\.Net Core\MVC\Projects\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.dll
+F:\Mustafa\Courses\Back_End\.Net Core\MVC\Projects\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.pdb
+F:\Mustafa\Courses\Back_End\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.AssemblyReference.cache
+F:\Mustafa\Courses\Back_End\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mustafa\Courses\Back_End\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfoInputs.cache
+F:\Mustafa\Courses\Back_End\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfo.cs
+F:\Mustafa\Courses\Back_End\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.CoreCompileInputs.cache
+F:\Mustafa\Courses\Back_End\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.dll
+F:\Mustafa\Courses\Back_End\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
+F:\Mustafa\Courses\Back_End\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
+F:\Mustafa\Courses\Back_End\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
+F:\Mustafa\Programing\Courses\Back_End\.Net Core\MVC\Projects\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.deps.json
+F:\Mustafa\Programing\Courses\Back_End\.Net Core\MVC\Projects\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.dll
+F:\Mustafa\Programing\Courses\Back_End\.Net Core\MVC\Projects\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.pdb
+F:\Mustafa\Programing\Courses\Back_End\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.AssemblyReference.cache
+F:\Mustafa\Programing\Courses\Back_End\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mustafa\Programing\Courses\Back_End\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfoInputs.cache
+F:\Mustafa\Programing\Courses\Back_End\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfo.cs
+F:\Mustafa\Programing\Courses\Back_End\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.CoreCompileInputs.cache
+F:\Mustafa\Programing\Courses\Back_End\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.dll
+F:\Mustafa\Programing\Courses\Back_End\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
+F:\Mustafa\Programing\Courses\Back_End\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
+F:\Mustafa\Programing\Courses\Back_End\.Net Core\MVC\Projects\Bulky\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.deps.json
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.dll
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.pdb
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.AssemblyReference.cache
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfoInputs.cache
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfo.cs
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.CoreCompileInputs.cache
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.dll
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\Bulky\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\Bulky\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll

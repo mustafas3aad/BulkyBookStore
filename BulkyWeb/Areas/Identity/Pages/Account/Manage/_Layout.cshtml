@@ -1,0 +1,32 @@
+﻿@{
+    if (ViewData.TryGetValue("ParentLayout", out var parentLayout) && parentLayout !=  null)
+    {
+        Layout = parentLayout.ToString();
+    }
+    else
+    {
+        //NOTE:
+        //to when we click on (Hello@ username) after login appear all details about username
+        //We should use the (layout of Views) not the (layout of manage) so we will change the path and Copy viewstrat file in manage folder and change path in it to (layout of Views)
+        Layout = "/Views/Shared/_Layout.cshtml";
+    }
+}
+
+<h1>Manage your account</h1>
+
+<div>
+    <h2>Change your account settings</h2>
+    <hr />
+    <div class="row">
+        <div class="col-md-3">
+            <partial name="_ManageNav" />
+        </div>
+        <div class="col-md-9">
+            @RenderBody()
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @RenderSection("Scripts", required: false)
+}

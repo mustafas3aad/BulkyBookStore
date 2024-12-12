@@ -1,0 +1,365 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BulkyWeb.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\images\\Product\\cotton candy.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\cotton candy.jpg"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\images\\Product\\dark skies.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\dark skies.jpg"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\images\\Product\\fortune of time.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\fortune of time.jpg"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\images\\Product\\leaves and wonders.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\leaves and wonders.jpg"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\images\\Product\\rock in the ocean.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\rock in the ocean.jpg"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\images\\Product\\vanish in the sunset.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\vanish in the sunset.jpg"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\images\\book.png",
+      "PackagePath": "staticwebassets\\images\\book.png"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-1\\6c1b2e94-7266-4c97-9dd8-7325e0a12c34.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\6c1b2e94-7266-4c97-9dd8-7325e0a12c34.jpg"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-1\\be16f337-1c9e-4517-8636-06ff6a7bbed0.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\be16f337-1c9e-4517-8636-06ff6a7bbed0.jpg"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-2\\99136ce1-60a3-4345-943c-763d6f16bf18.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\99136ce1-60a3-4345-943c-763d6f16bf18.jpg"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-2\\c3e4e318-187f-4aee-a770-3b2b32a1f891.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\c3e4e318-187f-4aee-a770-3b2b32a1f891.jpg"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-3\\81f994f3-3eec-4093-a705-e988869519d9.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\81f994f3-3eec-4093-a705-e988869519d9.jpg"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-3\\a277db3f-4778-4159-b47f-13c9003d7e66.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\a277db3f-4778-4159-b47f-13c9003d7e66.jpg"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-4\\402383a2-7a5b-4b99-aac6-a66e23471994.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\402383a2-7a5b-4b99-aac6-a66e23471994.jpg"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-4\\605e3c00-d2ed-4901-b38b-73c69669a0b0.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\605e3c00-d2ed-4901-b38b-73c69669a0b0.jpg"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-5\\2e6ccfaf-f99b-436b-960e-2e2c45cf074e.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\2e6ccfaf-f99b-436b-960e-2e2c45cf074e.jpg"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-5\\6de77ef7-fe9c-48af-a3da-bd359325bfbf.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\6de77ef7-fe9c-48af-a3da-bd359325bfbf.jpg"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-6\\10e79681-6ca3-4e65-83cd-5862d6b9bb6f.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6\\10e79681-6ca3-4e65-83cd-5862d6b9bb6f.jpg"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-6\\1f9d32a8-823b-46fb-a5c6-a63701c6e5c5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6\\1f9d32a8-823b-46fb-a5c6-a63701c6e5c5.jpg"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BulkyWeb.props",
+      "PackagePath": "build\\BulkyWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BulkyWeb.props",
+      "PackagePath": "buildMultiTargeting\\BulkyWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BulkyWeb.props",
+      "PackagePath": "buildTransitive\\BulkyWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
