@@ -14184,7 +14184,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mohamed Saad\\.nuget\\packages\\": {}
+    "C:\\Users\\Mohamed Saad\\.nuget\\packages\\": {},
+    "E:\\programs\\Programming\\Visual Studio Installation\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -14195,8 +14196,12 @@
       "packagesPath": "C:\\Users\\Mohamed Saad\\.nuget\\packages\\",
       "outputPath": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\programs\\Programming\\Visual Studio Installation\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Mohamed Saad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -14204,6 +14209,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -14220,7 +14226,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -14288,7 +14300,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

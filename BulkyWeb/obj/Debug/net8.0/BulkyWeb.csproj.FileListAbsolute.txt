@@ -2238,3 +2238,4 @@ F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\Bulky\
 F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.pdb
 F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.genruntimeconfig.cache
 F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\Bulky\BulkyWeb\obj\Debug\net8.0\ref\BulkyWeb.dll
+F:\Mustafa\Programing\Courses\Back_End\Puplic Projects uploaded to GitHup\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.sourcelink.json

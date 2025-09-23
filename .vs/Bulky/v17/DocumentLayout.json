@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82C0BA56-C5E9-45B9-B5D6-4DA354657CAA}|BulkyWeb\\BulkyWeb.csproj|f:\\mustafa\\programing\\courses\\back_end\\puplic projects uploaded to githup\\bulky\\bulkyweb\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82C0BA56-C5E9-45B9-B5D6-4DA354657CAA}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C0BA56-C5E9-45B9-B5D6-4DA354657CAA}|BulkyWeb\\BulkyWeb.csproj|f:\\mustafa\\programing\\courses\\back_end\\puplic projects uploaded to githup\\bulky\\bulkyweb\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82C0BA56-C5E9-45B9-B5D6-4DA354657CAA}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C0BA56-C5E9-45B9-B5D6-4DA354657CAA}|BulkyWeb\\BulkyWeb.csproj|f:\\mustafa\\programing\\courses\\back_end\\puplic projects uploaded to githup\\bulky\\bulkyweb\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82C0BA56-C5E9-45B9-B5D6-4DA354657CAA}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C0BA56-C5E9-45B9-B5D6-4DA354657CAA}|BulkyWeb\\BulkyWeb.csproj|f:\\mustafa\\programing\\courses\\back_end\\puplic projects uploaded to githup\\bulky\\bulkyweb\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82C0BA56-C5E9-45B9-B5D6-4DA354657CAA}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C0BA56-C5E9-45B9-B5D6-4DA354657CAA}|BulkyWeb\\BulkyWeb.csproj|f:\\mustafa\\programing\\courses\\back_end\\puplic projects uploaded to githup\\bulky\\bulkyweb\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82C0BA56-C5E9-45B9-B5D6-4DA354657CAA}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C0BA56-C5E9-45B9-B5D6-4DA354657CAA}|BulkyWeb\\BulkyWeb.csproj|f:\\mustafa\\programing\\courses\\back_end\\puplic projects uploaded to githup\\bulky\\bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82C0BA56-C5E9-45B9-B5D6-4DA354657CAA}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A645AE34-D1C8-4EC7-A797-F9528D10E198}|Bulky.DataAccess\\Bulky.DataAccess.csproj|f:\\mustafa\\programing\\courses\\back_end\\puplic projects uploaded to githup\\bulky\\bulky.dataaccess\\repository\\applicationuserreposaitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A645AE34-D1C8-4EC7-A797-F9528D10E198}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\applicationuserreposaitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C0BA56-C5E9-45B9-B5D6-4DA354657CAA}|BulkyWeb\\BulkyWeb.csproj|f:\\mustafa\\programing\\courses\\back_end\\puplic projects uploaded to githup\\bulky\\bulkyweb\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C0BA56-C5E9-45B9-B5D6-4DA354657CAA}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C0BA56-C5E9-45B9-B5D6-4DA354657CAA}|BulkyWeb\\BulkyWeb.csproj|f:\\mustafa\\programing\\courses\\back_end\\puplic projects uploaded to githup\\bulky\\bulkyweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82C0BA56-C5E9-45B9-B5D6-4DA354657CAA}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C0BA56-C5E9-45B9-B5D6-4DA354657CAA}|BulkyWeb\\BulkyWeb.csproj|f:\\mustafa\\programing\\courses\\back_end\\puplic projects uploaded to githup\\bulky\\bulkyweb\\wwwroot\\js\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{82C0BA56-C5E9-45B9-B5D6-4DA354657CAA}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\wwwroot\\js\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ToolTip": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T10:48:22.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T10:47:57.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T10:47:52.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T10:47:49.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T10:47:40.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T21:24:45.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUserReposaitory.cs",
+              "DocumentMoniker": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\Bulky.DataAccess\\Repository\\ApplicationUserReposaitory.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\ApplicationUserReposaitory.cs",
+              "ToolTip": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\Bulky.DataAccess\\Repository\\ApplicationUserReposaitory.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\ApplicationUserReposaitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:55:40.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "BulkyWeb\\appsettings.json",
+              "ToolTip": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\appsettings.json",
+              "RelativeToolTip": "BulkyWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T12:44:50.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:51:22.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "user.js",
+              "DocumentMoniker": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\js\\user.js",
+              "RelativeDocumentMoniker": "BulkyWeb\\wwwroot\\js\\user.js",
+              "ToolTip": "F:\\Mustafa\\Programing\\Courses\\Back_End\\Puplic Projects uploaded to GitHup\\Bulky\\BulkyWeb\\wwwroot\\js\\user.js",
+              "RelativeToolTip": "BulkyWeb\\wwwroot\\js\\user.js",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-14T11:50:52.566Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
