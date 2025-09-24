@@ -32,8 +32,7 @@ Bulky Book Store is an educational and practical project that demonstrates how t
 - **N-Tier Architecture**: Ensures scalability and flexibility.
 - **Dependency Injection & Unit of Work**: For better organization and maintainability.
 - **Repository Pattern**: Clean and efficient database interaction.
-- **Separation of Concerns**: Clear split between UI, Business Logic, and Data Access layers.
-- 
+- **Separation of Concerns**: Clear split between UI, Business Logic, and Data Access layers. 
 ---
 
 ## ✨ Features
